@@ -8,6 +8,6 @@ namespace gitproject
 {
     class jenkinsclass
     {
-        Console.WriteLine("new jenkins class");
+        //Console.WriteLine("new jenkins class");
     }
 }
